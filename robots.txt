@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mstancy10.github.io/riverside-card-shop/sitemap.xml
